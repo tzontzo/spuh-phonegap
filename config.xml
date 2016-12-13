@@ -118,6 +118,6 @@
     <plugin name="cordova-plugin-vibration" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
     <plugin name="phonegap-plugin-push" spec="~1.8.4">
-        <variable name="SENDER_ID" value="1234567" />
+        <variable name="SENDER_ID" value="463680601779" />
     </plugin>
 </widget>
